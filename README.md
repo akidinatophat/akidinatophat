@@ -1,4 +1,4 @@
-                  
+```                  
                   lllllll                     
                   l:::::l                     
                   l:::::l                     
@@ -26,5 +26,6 @@ I'm yet another dev who spends time making things on the computing device.
 |   📫: ale@hatto.dev        |
 |                            |
 ------------------------------
+```
                                               
                                               
