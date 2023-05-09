@@ -1,16 +1,30 @@
-### Hi there 👋
+                  
+                  lllllll                     
+                  l:::::l                     
+                  l:::::l                     
+                  l:::::l                     
+  aaaaaaaaaaaaa    l::::l     eeeeeeeeeeee    
+  a::::::::::::a   l::::l   ee::::::::::::ee  
+  aaaaaaaaa:::::a  l::::l  e::::::eeeee:::::ee
+           a::::a  l::::l e::::::e     e:::::e
+    aaaaaaa:::::a  l::::l e:::::::eeeee::::::e
+  aa::::::::::::a  l::::l e:::::::::::::::::e 
+ a::::aaaa::::::a  l::::l e::::::eeeeeeeeeee  
+a::::a    a:::::a  l::::l e:::::::e           
+a::::a    a:::::a l::::::le::::::::e          
+a:::::aaaa::::::a l::::::l e::::::::eeeeeeee  
+ a::::::::::aa:::al::::::l  ee:::::::::::::e  
+  aaaaaaaaaa  aaaallllllll    eeeeeeeeeeeeee  
+                                              
 
-<!--
-**akidinatophat/akidinatophat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm yet another dev who spends time making things on the computing device.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------
+|       find me places       |
+|                            |
+|   💻: https://hatto.dev    |
+|   📫: ale@hatto.dev        |
+|                            |
+------------------------------
+                                              
+                                              
