@@ -1,4 +1,5 @@
-```dev@akidinatophat:~$ bash ale-aboutme.sh
+```
+dev@akidinatophat:~$ bash ale-aboutme.sh
 
                   lllllll                     
                   l:::::l                     
