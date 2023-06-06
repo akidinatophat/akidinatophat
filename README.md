@@ -24,8 +24,8 @@ I'm yet another dev who spends time making things on the computing device.
 ------------------------------
 |       find me places       |
 |                            |
-|   💻: https://hatto.dev    |
-|   📫: ale@hatto.dev        |
+|   💻: https://brew.rocks   |
+|   📫: brew@brew.rocks      |
 |                            |
 ------------------------------
 ```
