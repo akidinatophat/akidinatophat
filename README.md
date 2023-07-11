@@ -21,13 +21,13 @@ a:::::aaaa::::::a l::::::l e::::::::eeeeeeee
 
 I'm yet another dev who spends time making things on the computing device.
 
-------------------------------
-|       find me places       |
-|                            |
-|   💻: https://brew.rocks   |
-|   📫: brew@brew.rocks      |
-|                            |
-------------------------------
+-----------------------------------------
+|            find me places             |
+|                                       |
+|   💻: https://brew.rocks              |
+|   📫: now on profile due to spam      |
+|                                       |
+-----------------------------------------
 ```
                                               
                                               
