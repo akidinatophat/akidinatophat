@@ -28,6 +28,8 @@ I'm yet another dev who spends time making things on the computing device.
 |   📫: now on profile due to spam      |
 |                                       |
 -----------------------------------------
+
+!!!: I'm moving to ForgeJo! Find me at: https://git.chrischro.me/dotbrew (all current repos on here will stay, my orgs may move depending on what they are)
 ```
                                               
                                               
