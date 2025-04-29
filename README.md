@@ -30,6 +30,7 @@ I'm yet another dev who spends time making things on the computing device.
 -----------------------------------------
 ```
 > [!IMPORTANT]
-> I'm moving to ForgeJo. Repos on this account will stay here but may be archived in the future. My orgs a
+> I'm moving to ForgeJo. Repos on this account will stay here but may be archived in the future. My orgs will be moved to ForgeJo depending on what it is.
+
 > [My ForgeJo](https://git.chrischro.me/dotbrew)
                                               
